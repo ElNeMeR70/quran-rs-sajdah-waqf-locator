@@ -1,0 +1,10 @@
+[package]
+name = "quran-rs-sajdah-waqf-locator"
+version = "1.0.0"
+edition = "2021"
+description = "Tilawah Sajdah & Mandatory Waqf Boundary Detector"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "quran_rs_sajdah_waqf_locator"
+path = "main.rs"
